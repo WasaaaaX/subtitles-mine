@@ -1,0 +1,401 @@
+[Script Info]
+Title: [Erai-raws] Español (España)
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Arial,22,&H00F8F9F5,&H000000FF,&H00CF93F3,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,5,0030,0030,0010,0
+Style: Cart_C_Tim,Times New Roman,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.78,0:00:13.39,Gen_Italics,Shirota,0000,0000,0000,,Takane Takamine\Nes la diosa del instituto.
+Dialogue: 0,0:00:14.07,0:00:18.37,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fs18\an2\fax0.4\b0\bord3\frz345.4\move(164,85.71,-74,89.71,27,4181)}Mejores notas finales del semestre\N1. Takane Takamine\N\h2. Junji Shinyama
+Dialogue: 0,0:00:14.70,0:00:17.53,Gen_Italics,Shirota,0000,0000,0000,,Saca las mejores notas\Ny es la mejor deportista.
+Dialogue: 0,0:00:17.62,0:00:21.02,Gen_Italics,Shirota,0000,0000,0000,,Su carisma hizo que\Nla eligieran presidenta del consejo
+Dialogue: 0,0:00:21.08,0:00:23.13,Gen_Italics,Shirota,0000,0000,0000,,estando aún en primero.
+Dialogue: 0,0:00:23.67,0:00:25.88,Gen_Italics,Shirota,0000,0000,0000,,Si hubiera una jerarquía en el insti,
+Dialogue: 0,0:00:25.96,0:00:28.42,Gen_Italics,Shirota,0000,0000,0000,,ella estaría sola en lo más alto:
+Dialogue: 0,0:00:28.97,0:00:30.36,Gen_Italics,Shirota,0000,0000,0000,,es una diosa.
+Dialogue: 0,0:00:32.30,0:00:34.12,Gen_Italics,Shirota,0000,0000,0000,,En cambio, yo…
+Dialogue: 0,0:00:36.27,0:00:38.18,Gen_Italics,Shirota,0000,0000,0000,,Koushi Shirota, soy…
+Dialogue: 0,0:00:39.23,0:00:40.72,Gen_Main,GuyA,0000,0000,0000,,Perdona, Shirota.
+Dialogue: 0,0:00:40.81,0:00:42.91,Gen_Main,GuyA,0000,0000,0000,,¿Necesitas que te devuelva el sitio?
+Dialogue: 0,0:00:42.98,0:00:45.62,Gen_Main,Shirota,0000,0000,0000,,No, no pasa nada, tranqui.
+Dialogue: 0,0:00:46.28,0:00:49.69,Gen_Italics,Shirota(M),0000,0000,0000,,La mesa será más feliz\Nsi la usa alguien.
+Dialogue: 0,0:00:50.60,0:00:53.53,Gen_Italics,Shirota(M),0000,0000,0000,,Soy un negado\Nen los estudios y los deportes.
+Dialogue: 0,0:00:54.83,0:00:57.99,Gen_Italics,Shirota(M),0000,0000,0000,,No tengo amigos y soy casi invisible.
+Dialogue: 0,0:00:59.02,0:01:03.63,Gen_Italics,Shirota(M),0000,0000,0000,,Soy indigno de compararme con la presi,\Npero no nos parecemos en nada.
+Dialogue: 0,0:01:03.96,0:01:05.74,Gen_Italics,Shirota(M),0000,0000,0000,,Ni en el blanco de los ojos.
+Dialogue: 0,0:01:06.75,0:01:12.87,Gen_Italics,Shirota(M),0000,0000,0000,,Lo único que tenemos en común es que\Nsiempre hemos ido a la misma clase.
+Dialogue: 0,0:01:13.47,0:01:17.07,Gen_Italics,Shirota(M),0000,0000,0000,,Pero ella siempre ha sido\Nun prodigio en todo
+Dialogue: 0,0:01:17.14,0:01:20.58,Gen_Italics,Shirota(M),0000,0000,0000,,y yo un fracasado,\Nasí que no tenemos relación.
+Dialogue: 0,0:01:21.19,0:01:24.94,Gen_Italics,Shirota(M),0000,0000,0000,,Siempre me ha parecido\Ntan fuera de mi alcance
+Dialogue: 0,0:01:25.27,0:01:30.04,Gen_Italics,Shirota(M),0000,0000,0000,,que ni me he planteado\Nintentar que seamos amigos,
+Dialogue: 0,0:01:30.69,0:01:34.20,Gen_Italics,Shirota(M),0000,0000,0000,,y no digamos ya pensar en ir más allá.
+Dialogue: 0,0:01:35.49,0:01:37.17,Gen_Italics,Shirota(M),0000,0000,0000,,Hasta hoy mismo…
+Dialogue: 0,0:01:39.25,0:01:43.09,Gen_Italics,Shirota(M),0000,0000,0000,,jamás habría pensado\Nque un inútil como yo,
+Dialogue: 0,0:01:43.87,0:01:48.91,Gen_Italics,Shirota(M),0000,0000,0000,,pudiera tener esta relación\Ntan especial con ella.
+Dialogue: 1,0:01:53.00,0:01:58.01,Cart_EpiTitle,CARTEL,0000,0000,0000,,{\pos(320,138.29)\yshad2\blur2\4c&HCF93F3&}Vas a ser mi armario personal.
+Dialogue: 2,0:01:53.00,0:01:58.01,Cart_EpiTitle,CARTEL,0000,0000,0000,,{\pos(320,138.29)}Vas a ser mi armario personal.
+Dialogue: 0,0:01:53.84,0:01:56.50,Gen_Main,Takamine,0000,0000,0000,,"Vas a ser mi armario personal".
+Dialogue: 0,0:02:01.85,0:02:04.22,Gen_Italics,Shirota(M),0000,0000,0000,,¿Qué clase toca ahora?
+Dialogue: 0,0:02:04.31,0:02:07.51,Gen_Italics,Shirota(M),0000,0000,0000,,Mierda, nos darán los resultados\Ndel examen de mates.
+Dialogue: 0,0:02:08.94,0:02:11.02,Gen_Italics,Shirota(M),0000,0000,0000,,Seguro que he cateado otra vez.
+Dialogue: 0,0:02:12.61,0:02:13.82,Gen_Italics,Shirota(M),0000,0000,0000,,¿Quién será?
+Dialogue: 0,0:02:14.86,0:02:17.91,Gen_Italics,Shirota(M),0000,0000,0000,,Se supone que no se puede\Nentrar aquí sin permiso.
+Dialogue: 0,0:02:20.45,0:02:21.62,Gen_Italics,Shirota(M),0000,0000,0000,,¿La presidenta?
+Dialogue: 0,0:02:22.20,0:02:24.09,Gen_Italics,Shirota(M),0000,0000,0000,,¿Qué estará haciendo aquí?
+Dialogue: 0,0:02:26.75,0:02:28.51,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Se está cambiando?!
+Dialogue: 0,0:02:30.09,0:02:32.14,Gen_Italics,Shirota(M),0000,0000,0000,,¡Soy idiota, ¿qué estoy mirando?!
+Dialogue: 0,0:02:32.21,0:02:33.84,Gen_Italics,Shirota(M),0000,0000,0000,,¿Ahora soy un mirón o qué?
+Dialogue: 0,0:02:34.13,0:02:38.88,Gen_Italics,Shirota(M),0000,0000,0000,,Da igual que se esté cambiando\Nla chica más guapa del instituto.
+Dialogue: 0,0:02:38.97,0:02:41.24,Gen_Italics,Shirota(M),0000,0000,0000,,¡Los mirones son lo peor!
+Dialogue: 0,0:02:41.31,0:02:43.60,Gen_Italics,Shirota(M),0000,0000,0000,,¡No miraré, no miraré, no miraré…!
+Dialogue: 0,0:02:56.49,0:02:57.98,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿No lleva sujetador?!
+Dialogue: 0,0:02:58.07,0:03:01.16,Gen_Italics,Shirota(M),0000,0000,0000,,¿Se le habrá olvidado?\NNo, eso es imposible.
+Dialogue: 0,0:03:01.49,0:03:03.87,Gen_Italics,Shirota(M),0000,0000,0000,,¡Mierda, mierda! Ha sido sin querer,
+Dialogue: 0,0:03:03.95,0:03:05.98,Gen_Italics,Shirota(M),0000,0000,0000,,¡pero se las he visto!
+Dialogue: 0,0:03:06.08,0:03:08.90,Gen_Italics,Shirota(M),0000,0000,0000,,Le he visto a la presi,\Nla más guapa del insti,
+Dialogue: 0,0:03:09.00,0:03:10.33,Gen_Italics,Shirota(M),0000,0000,0000,,¡los pechotes!
+Dialogue: 0,0:03:10.42,0:03:13.95,Gen_Italics,Shirota(M),0000,0000,0000,,Si es que soy lo peor,\N¡pero se las he visto!
+Dialogue: 0,0:03:20.10,0:03:23.18,Gen_Italics,Shirota(M),0000,0000,0000,,¿Por qué habrá ido\Nla presidenta a cambiarse allí?
+Dialogue: 0,0:03:23.47,0:03:27.23,Gen_Italics,Shirota(M),0000,0000,0000,,¿Y por qué no llevaba sujetador?
+Dialogue: 0,0:03:28.10,0:03:29.33,Gen_Italics,Shirota(M),0000,0000,0000,,Sujetador…
+Dialogue: 0,0:03:31.32,0:03:34.24,Gen_Main,MathTeacher,0000,0000,0000,,Sentaos. Os entregaré los exámenes.
+Dialogue: 0,0:03:34.99,0:03:36.27,Gen_Main,MathTeacher,0000,0000,0000,,Itou.
+Dialogue: 0,0:03:38.41,0:03:39.84,Gen_Main,MathTeacher,0000,0000,0000,,Ouji.
+Dialogue: 0,0:03:41.24,0:03:42.56,Gen_Main,MathTeacher,0000,0000,0000,,Kimura.
+Dialogue: 0,0:03:44.08,0:03:45.49,Gen_Main,MathTeacher,0000,0000,0000,,Shirota.
+Dialogue: 0,0:03:49.83,0:03:50.93,Gen_Main,MathTeacher,0000,0000,0000,,Suzuki.
+Dialogue: 0,0:03:53.17,0:03:54.52,Gen_Main,MathTeacher,0000,0000,0000,,Soejima.
+Dialogue: 0,0:03:55.25,0:03:57.71,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fry0\an3\blur0.4\bord0\pos(314.29,145.14)\c&H16181A&}Examen de evaluación - Matemáticas II
+Dialogue: 0,0:03:55.25,0:03:57.71,Cart_C_Tre,CARTEL,0000,0000,0000,,{\b0\bord0\fs28\c&H4F4F4F&\fnComic Sans MS\pos(55.43,276)\1a&H37&}Koushi Shirota
+Dialogue: 0,0:03:57.34,0:03:58.75,Gen_Italics,Shirota(M),0000,0000,0000,,¡Toma ya!
+Dialogue: 0,0:03:58.84,0:04:01.04,Gen_Italics,Shirota(M),0000,0000,0000,,¡Nunca había sacado tanta nota!
+Dialogue: 0,0:04:01.14,0:04:03.61,Gen_Italics,Shirota(M),0000,0000,0000,,Solo he cateado una asignatura.
+Dialogue: 0,0:04:01.39,0:04:03.93,Gen_Main_Up,MathTeacher/Takamine,0000,0000,0000,,-Takamine.\N-Voy.
+Dialogue: 0,0:04:04.77,0:04:08.92,Gen_Main,MathTeacher,0000,0000,0000,,Qué raro en ti. No has sacado el máximo.
+Dialogue: 0,0:04:11.48,0:04:12.96,Gen_Main,GirlA,0000,0000,0000,,Qué cosa tan rara.
+Dialogue: 0,0:04:13.02,0:04:14.96,Gen_Main,GuyA,0000,0000,0000,,La presidenta también se equivoca.
+Dialogue: 0,0:04:15.03,0:04:16.74,Gen_Italics,Shirota(M),0000,0000,0000,,Sí que es raro, sí.
+Dialogue: 0,0:04:17.36,0:04:22.68,Gen_Italics,Shirota(M),0000,0000,0000,,Esto quiere decir que se acabó su\Nleyenda de sacar siempre la nota máxima.
+Dialogue: 0,0:04:23.08,0:04:24.79,Gen_Italics,Shirota(M),0000,0000,0000,,Esto es algo serio.
+Dialogue: 0,0:04:29.79,0:04:33.79,Gen_Main,Takamine,0000,0000,0000,,Disculpe, pero\N¿no se habrá equivocado al puntuarme?
+Dialogue: 0,0:04:33.88,0:04:36.14,Gen_Main,MathTeacher,0000,0000,0000,,Lo siento, pero no.
+Dialogue: 0,0:04:36.21,0:04:39.01,Gen_Main,MathTeacher/Takamine,0000,0000,0000,,-Bueno, eres humana.\N-Comprendo.
+Dialogue: 0,0:04:42.89,0:04:43.93,Gen_Italics,Shirota(M),0000,0000,0000,,¿Eh?
+Dialogue: 0,0:04:57.03,0:05:00.03,Gen_Italics,Shirota(M),0000,0000,0000,,¿El culo? ¡¿El culo de la presi?!
+Dialogue: 0,0:05:00.11,0:05:01.92,Gen_Italics,Shirota(M),0000,0000,0000,,Qué suavecito parece.
+Dialogue: 0,0:05:01.99,0:05:03.34,Gen_Italics,Shirota(M),0000,0000,0000,,¡Espera, deja eso!
+Dialogue: 0,0:05:03.41,0:05:05.19,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Qué hace enseñando el culo?!
+Dialogue: 0,0:05:48.74,0:05:50.70,Gen_Main,MathTeacher,0000,0000,0000,,Shirota. ¡Shirota!
+Dialogue: 0,0:05:52.50,0:05:54.90,Gen_Main,Shirota(M),0000,0000,0000,,¿Eh?
+Dialogue: 0,0:05:55.00,0:05:56.21,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Y el culo?!
+Dialogue: 0,0:05:56.29,0:05:57.63,Gen_Main,MathTeacher,0000,0000,0000,,Ven a por tu examen.
+Dialogue: 0,0:05:58.25,0:05:59.78,Gen_Italics,Shirota(M),0000,0000,0000,,¿Mi examen?
+Dialogue: 0,0:05:59.88,0:06:00.95,Gen_Italics,Shirota(M),0000,0000,0000,,Si ya lo tengo…
+Dialogue: 0,0:06:01.88,0:06:03.05,Gen_Italics,Shirota(M),0000,0000,0000,,¿Cómo?
+Dialogue: 0,0:06:03.51,0:06:07.13,Gen_Italics,Shirota(M),0000,0000,0000,,Qué raro. Me habré dormido…
+Dialogue: 0,0:06:07.22,0:06:08.91,Gen_Italics,Shirota(M),0000,0000,0000,,Pues claro.
+Dialogue: 0,0:06:08.97,0:06:12.60,Gen_Italics,Shirota(M),0000,0000,0000,,¿Cómo iba yo a sacar un 52?
+Dialogue: 0,0:06:12.60,0:06:16.31,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fry0\an3\blur0.4\bord0\pos(314.29,145.14)\c&H16181A&}Examen de evaluación - Matemáticas II
+Dialogue: 0,0:06:12.60,0:06:16.31,Cart_C_Tre,CARTEL,0000,0000,0000,,{\b0\bord0\fs28\c&H4F4F4F&\fnComic Sans MS\pos(55.43,276)\1a&H37&}Koushi Shirota
+Dialogue: 0,0:06:13.89,0:06:16.31,Gen_Italics,Shirota(M),0000,0000,0000,,¿No era un sueño?
+Dialogue: 0,0:06:15.16,0:06:16.31,Gen_Main_Up,MathTeacher,0000,0000,0000,,Suzuki.
+Dialogue: 0,0:06:16.94,0:06:18.49,Gen_Italics,Shirota(M),0000,0000,0000,,¿Cómo se llamaba esto?
+Dialogue: 0,0:06:17.82,0:06:18.92,Gen_Main_Up,MathTeacher,0000,0000,0000,,Soejima.
+Dialogue: 0,0:06:19.48,0:06:21.00,Gen_Italics,Shirota(M),0000,0000,0000,,¿Un {\i0}déjà vu{\i1}?
+Dialogue: 0,0:06:20.44,0:06:21.62,Gen_Main_Up,MathTeacher,0000,0000,0000,,Somiya.
+Dialogue: 0,0:06:22.24,0:06:26.40,Gen_Italics,Shirota(M),0000,0000,0000,,Es decir, que ahora la presi\Ndescubrirá que ha sacado un 98…
+Dialogue: 0,0:06:26.49,0:06:27.57,Gen_Main,MathTeacher,0000,0000,0000,,Y ahora…
+Dialogue: 0,0:06:28.12,0:06:30.20,Gen_Main,MathTeacher,0000,0000,0000,,Digno de ti, Takamine.
+Dialogue: 0,0:06:30.29,0:06:31.79,Gen_Main,MathTeacher,0000,0000,0000,,Otra nota máxima.
+Dialogue: 0,0:06:32.87,0:06:33.93,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Cómo?!
+Dialogue: 0,0:06:39.29,0:06:43.48,Gen_Italics,Shirota(M),0000,0000,0000,,A ver, no fue un sueño ni un déjà vu.
+Dialogue: 0,0:06:43.55,0:06:46.10,Gen_Italics,Shirota(M),0000,0000,0000,,¡Sé que sacó un 98!
+Dialogue: 0,0:06:46.55,0:06:48.03,Gen_Italics,Shirota(M),0000,0000,0000,,Además…
+Dialogue: 0,0:06:48.10,0:06:52.42,Gen_Italics,Shirota(M),0000,0000,0000,,recuerdo eso muy bien\Ncomo para que fuera un sueño.
+Dialogue: 0,0:06:52.81,0:06:57.52,Gen_Italics,Shirota(M),0000,0000,0000,,Y lo cierto es que cambiarse allí\Ntambién fue algo muy sospechoso.
+Dialogue: 0,0:06:57.60,0:07:02.15,Gen_Italics,Shirota(M),0000,0000,0000,,¡Hoy está siendo un día la mar de raro!
+Dialogue: 0,0:07:04.28,0:07:05.89,Gen_Italics,Shirota(M),0000,0000,0000,,O eso creo.
+Dialogue: 0,0:07:07.03,0:07:10.68,Gen_Italics,Shirota(M),0000,0000,0000,,Sería mejor no meter las narices, pero…
+Dialogue: 0,0:07:10.91,0:07:13.69,Gen_Italics,Shirota(M),0000,0000,0000,,tengo que saber qué está pasando.
+Dialogue: 0,0:07:14.12,0:07:20.58,Cart_C_Tim,CARTEL,0000,0000,0000,,{\c&H346775&\fax0.3\3c&H9FCFE2&\frz340.3\pos(389.14,53.14)}Consejo Estudiantil
+Dialogue: 0,0:07:15.64,0:07:16.68,Gen_Main,Takamine,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:07:16.75,0:07:18.43,Gen_Main,Shirota,0000,0000,0000,,¡Con permiso!
+Dialogue: 0,0:07:26.43,0:07:30.09,Gen_Main,Takamine,0000,0000,0000,,Anda, Shirota.
+Dialogue: 0,0:07:30.18,0:07:31.65,Gen_Main,Takamine,0000,0000,0000,,¿Puedo ayudarte?
+Dialogue: 0,0:07:31.72,0:07:33.40,Gen_Main,Shirota,0000,0000,0000,,Bueno, verás…
+Dialogue: 0,0:07:34.60,0:07:37.48,Gen_Main,Shirota,0000,0000,0000,,Sé que esto te sonará muy raro,
+Dialogue: 0,0:07:38.15,0:07:40.93,Gen_Main,Shirota,0000,0000,0000,,pero creo que antes he visto…
+Dialogue: 0,0:07:42.07,0:07:45.14,Gen_Main,Shirota,0000,0000,0000,,que sacabas un 98 en el examen de mates.
+Dialogue: 0,0:07:46.61,0:07:48.19,Gen_Main,Takamine,0000,0000,0000,,¿Y eso que dices
+Dialogue: 0,0:07:49.32,0:07:51.28,Gen_Main,Takamine,0000,0000,0000,,se lo has contado a alguien?
+Dialogue: 0,0:07:51.99,0:07:54.50,Gen_Main,Shirota,0000,0000,0000,,No, no se lo he dicho a nadie.
+Dialogue: 0,0:07:54.79,0:07:57.96,Gen_Main,Takamine,0000,0000,0000,,Vaya, así que me estabas observando.
+Dialogue: 0,0:07:58.37,0:08:01.23,Gen_Main,Takamine,0000,0000,0000,,No sé cómo se me ha podido pasar.
+Dialogue: 0,0:08:02.34,0:08:06.35,Gen_Main,Shirota,0000,0000,0000,,Bueno, no es que estuviera\Nobservándote, solo vi lo de la nota…
+Dialogue: 0,0:08:08.18,0:08:10.49,Gen_Main,Takamine,0000,0000,0000,,La cuestión no es la nota.
+Dialogue: 0,0:08:10.97,0:08:12.61,Gen_Main,Takamine,0000,0000,0000,,Me las viste, ¿verdad?
+Dialogue: 0,0:08:13.26,0:08:16.89,Gen_Main,Takamine,0000,0000,0000,,Me viste las tetas\Nen el almacén de gimnasia.
+Dialogue: 0,0:08:19.97,0:08:24.98,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fs20\pos(482.86,21.71}Please Put Them On,{\3c&H8CF2E7&} Takamine-san
+Dialogue: 0,0:08:24.98,0:08:29.98,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fs20\pos(146.86,14.29)}Please Put Them On,{\3c&H8CF2E7&} Takamine-san
+Dialogue: 0,0:08:30.57,0:08:32.12,Gen_Main,Takamine,0000,0000,0000,,Me las viste, ¿verdad?
+Dialogue: 0,0:08:32.20,0:08:35.41,Gen_Main,Takamine,0000,0000,0000,,Me viste las tetas\Nen el almacén de gimnasia.
+Dialogue: 0,0:08:35.49,0:08:38.16,Gen_Italics,Shirota(M),0000,0000,0000,,¿Se dio cuenta\Nde que la estaba espiando?
+Dialogue: 0,0:08:38.25,0:08:40.24,Gen_Main,Shirota,0000,0000,0000,,No, bueno, es que…
+Dialogue: 0,0:08:41.83,0:08:43.25,Gen_Main,Takamine,0000,0000,0000,,En fin.
+Dialogue: 0,0:08:43.54,0:08:45.76,Gen_Main,Takamine,0000,0000,0000,,De poco sirve enfadarme contigo.
+Dialogue: 0,0:08:45.84,0:08:47.95,Gen_Main,Takamine,0000,0000,0000,,Hablemos del tema.
+Dialogue: 0,0:08:48.59,0:08:50.38,Gen_Main,Takamine,0000,0000,0000,,Siéntate donde prefieras.
+Dialogue: 0,0:08:50.47,0:08:53.42,Gen_Main,Takamine,0000,0000,0000,,¿Quieres agua mineral?
+Dialogue: 0,0:08:53.51,0:08:55.65,Gen_Main,Shirota,0000,0000,0000,,Ah, vale.
+Dialogue: 0,0:08:58.02,0:09:01.06,Gen_Italics,Shirota(M),0000,0000,0000,,¿Por qué quiere que hablemos del tema?
+Dialogue: 0,0:09:01.35,0:09:03.40,Gen_Italics,Shirota(M),0000,0000,0000,,¿Va a echarme la bronca?
+Dialogue: 0,0:09:03.90,0:09:06.57,Gen_Italics,Shirota(M),0000,0000,0000,,No me expulsarán del instituto, ¿no?
+Dialogue: 0,0:09:13.62,0:09:15.74,Gen_Main,Shirota,0000,0000,0000,,¡Lo siento! ¿Te he mojado?
+Dialogue: 0,0:09:15.83,0:09:17.40,Gen_Main,Shirota,0000,0000,0000,,¡Lo limpio enseguida!
+Dialogue: 0,0:09:17.49,0:09:19.58,Gen_Main,Takamine,0000,0000,0000,,¿Por qué estás tan nervioso?
+Dialogue: 0,0:09:19.66,0:09:21.49,Gen_Main,Takamine,0000,0000,0000,,Si no estoy enfadada.
+Dialogue: 0,0:09:21.58,0:09:23.88,Gen_Main,Takamine,0000,0000,0000,,Es más, esta es una buena oportunidad.
+Dialogue: 0,0:09:24.13,0:09:25.90,Gen_Main,Takamine,0000,0000,0000,,Presta atención.
+Dialogue: 0,0:09:29.51,0:09:32.13,Gen_Main,Shirota,0000,0000,0000,,¡¿Qué haces ahora?!
+Dialogue: 0,0:10:16.55,0:10:18.81,Gen_Main,Takamine,0000,0000,0000,,¿Shirota? Shirota.
+Dialogue: 0,0:10:19.43,0:10:20.54,Gen_Main,Shirota,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:20.64,0:10:21.90,Gen_Main,Takamine,0000,0000,0000,,¿Te has dado cuenta?
+Dialogue: 0,0:10:21.98,0:10:23.77,Gen_Main,Shirota,0000,0000,0000,,Sí, lo siento…
+Dialogue: 0,0:10:24.06,0:10:25.25,Gen_Main,Shirota,0000,0000,0000,,¡¿Cómo?!
+Dialogue: 0,0:10:25.35,0:10:26.74,Gen_Main,Shirota,0000,0000,0000,,¿Por qué estás mojada?
+Dialogue: 0,0:10:26.81,0:10:28.14,Gen_Main,Takamine,0000,0000,0000,,¿Cómo que por qué?
+Dialogue: 0,0:10:28.23,0:10:29.97,Gen_Main,Takamine,0000,0000,0000,,Si me has empapado tú.
+Dialogue: 0,0:10:30.32,0:10:32.27,Gen_Main,Shirota,0000,0000,0000,,Espera… ¿Cómo?
+Dialogue: 0,0:10:32.36,0:10:35.42,Gen_Main,Takamine,0000,0000,0000,,Vamos, no te quedes ahí.
+Dialogue: 0,0:10:35.49,0:10:37.18,Gen_Main,Takamine,0000,0000,0000,,Voy a coger frío.
+Dialogue: 0,0:10:37.62,0:10:39.29,Gen_Main,Takamine,0000,0000,0000,,En especial en las tetas.
+Dialogue: 0,0:10:40.37,0:10:42.27,Gen_Main,Takamine,0000,0000,0000,,Me las has dejado chorreando.
+Dialogue: 0,0:10:43.66,0:10:45.47,Gen_Main,Takamine,0000,0000,0000,,Céntrate en secármelas.
+Dialogue: 0,0:10:46.08,0:10:47.58,Gen_Main,Shirota,0000,0000,0000,,Vale.
+Dialogue: 0,0:10:49.21,0:10:51.54,Gen_Italics,Shirota(M),0000,0000,0000,,Las tetas de la presidenta…
+Dialogue: 0,0:10:51.63,0:10:53.12,Gen_Italics,Shirota(M),0000,0000,0000,,¿Qué está pasando aquí?
+Dialogue: 0,0:10:53.22,0:10:55.48,Gen_Italics,Shirota(M),0000,0000,0000,,¿Me va a matar?
+Dialogue: 0,0:10:58.35,0:11:04.13,Gen_Main,Takamine,0000,0000,0000,,Por cierto, ¿no has notado algo más\Naparte de que me has empapado?
+Dialogue: 0,0:11:04.23,0:11:05.93,Gen_Main,Shirota,0000,0000,0000,,¿Cómo? ¿A qué te refieres?
+Dialogue: 0,0:11:06.02,0:11:07.93,Gen_Main,Shirota,0000,0000,0000,,¡¿He hecho algo más?!
+Dialogue: 0,0:11:09.56,0:11:10.87,Gen_Main,Takamine,0000,0000,0000,,Estás en la parra.
+Dialogue: 0,0:11:11.27,0:11:12.49,Gen_Main,Takamine,0000,0000,0000,,Mira.
+Dialogue: 0,0:11:15.95,0:11:17.36,Gen_Main,Takamine,0000,0000,0000,,Esto.
+Dialogue: 0,0:11:19.95,0:11:22.45,Gen_Main,Takamine,0000,0000,0000,,Seguro que lo notas, ¿verdad?
+Dialogue: 0,0:11:22.54,0:11:25.12,Gen_Main,Takamine,0000,0000,0000,,Vamos, dime qué sientes.
+Dialogue: 0,0:11:25.21,0:11:28.83,Gen_Main,Shirota,0000,0000,0000,,Qué blanditas.
+Dialogue: 0,0:11:28.92,0:11:29.98,Gen_Main,Takamine,0000,0000,0000,,¡Muy mal!
+Dialogue: 0,0:11:32.71,0:11:34.89,Gen_Main,Takamine,0000,0000,0000,,No te enteras de nada.
+Dialogue: 0,0:11:35.30,0:11:39.42,Gen_Main,Takamine,0000,0000,0000,,En fin, es normal que se te haya\Ncortocircuitado el cerebro.
+Dialogue: 0,0:11:39.56,0:11:42.91,Gen_Main,Takamine,0000,0000,0000,,Estabas tocando la teta\Nde la chica más guapa del instituto.
+Dialogue: 0,0:11:43.01,0:11:45.64,Gen_Main,Shirota,0000,0000,0000,,Oye, presidenta…
+Dialogue: 0,0:11:45.73,0:11:49.57,Gen_Main,Takamine,0000,0000,0000,,La cuestión es que,\Nademás de estar mojada,
+Dialogue: 0,0:11:49.65,0:11:52.81,Gen_Main,Takamine,0000,0000,0000,,mi sujetador ha desaparecido.
+Dialogue: 0,0:11:52.90,0:11:54.04,Gen_Main,Takamine,0000,0000,0000,,¿Lo entiendes?
+Dialogue: 0,0:11:54.69,0:11:58.07,Gen_Main,Shirota,0000,0000,0000,,¿Eh? Si antes llevabas sujetador…
+Dialogue: 0,0:11:58.49,0:12:00.97,Gen_Main,Takamine,0000,0000,0000,,Esta es mi habilidad.
+Dialogue: 0,0:12:01.74,0:12:04.21,Gen_Main,Takamine,0000,0000,0000,,"Una doncella\Nque no ha sido mancillada".
+Dialogue: 0,0:12:04.29,0:12:06.15,Gen_Main,Takamine,0000,0000,0000,,Eternal Virgin Road.
+Dialogue: 0,0:12:06.71,0:12:10.41,Gen_Main,Takamine,0000,0000,0000,,Cuando me quito la ropa interior,\Npuedo volver atrás.
+Dialogue: 0,0:12:10.50,0:12:12.82,Gen_Main,Shirota,0000,0000,0000,,¿Cómo? ¿Que es tu habilidad?
+Dialogue: 0,0:12:12.92,0:12:14.25,Gen_Main,Takamine,0000,0000,0000,,Ya lo has visto.
+Dialogue: 0,0:12:14.88,0:12:18.88,Gen_Main,Takamine,0000,0000,0000,,Al quitarme el sujetador,\Nhe evitado esquivar el agua.
+Dialogue: 0,0:12:19.43,0:12:20.50,Gen_Main,Shirota,0000,0000,0000,,No lo entiendo…
+Dialogue: 0,0:12:20.59,0:12:22.64,Gen_Main,Takamine,0000,0000,0000,,Sé qué estarás pensando.
+Dialogue: 0,0:12:23.01,0:12:28.25,Gen_Main,Takamine,0000,0000,0000,,¿Dónde está mi sujetador\Ny por qué solo tú recuerdas lo que hice?
+Dialogue: 0,0:12:28.35,0:12:29.41,Gen_Main,Takamine,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:12:30.06,0:12:32.77,Gen_Main,Shirota,0000,0000,0000,,Pues no, aún no había pensado en nada.
+Dialogue: 0,0:12:33.19,0:12:34.80,Gen_Main,Takamine,0000,0000,0000,,Empecemos por el inicio.
+Dialogue: 0,0:12:34.90,0:12:37.96,Gen_Main,Takamine,0000,0000,0000,,Si uso mi habilidad,\Nmi ropa interior desaparece.
+Dialogue: 0,0:12:38.32,0:12:40.54,Gen_Main,Takamine,0000,0000,0000,,Literalmente.
+Dialogue: 0,0:12:41.16,0:12:44.91,Gen_Main,Takamine,0000,0000,0000,,Y la respuesta a la segunda pregunta…
+Dialogue: 0,0:12:45.45,0:12:46.76,Gen_Main,Takamine,0000,0000,0000,,son estas.
+Dialogue: 0,0:12:47.91,0:12:53.30,Gen_Main,Takamine,0000,0000,0000,,Quienes me han visto las tetas,\Nrecuerdan lo que ocurrió antes.
+Dialogue: 0,0:12:53.38,0:12:54.38,Gen_Main,Takamine,0000,0000,0000,,¿Satisfecho?
+Dialogue: 0,0:12:54.46,0:12:56.92,Gen_Italics,Shirota(M),0000,0000,0000,,¡No entiendo nada!
+Dialogue: 0,0:12:57.01,0:13:00.00,Gen_Main,Takamine,0000,0000,0000,,Lo comprendo.\NEsto nos lleva a tu siguiente pregunta.
+Dialogue: 0,0:13:00.09,0:13:03.73,Gen_Main,Takamine,0000,0000,0000,,Te preguntas cómo tengo esta habilidad.
+Dialogue: 0,0:13:03.80,0:13:05.92,Gen_Italics,Shirota(M),0000,0000,0000,,Lo cierto es que no me pregunto nada.
+Dialogue: 0,0:13:06.01,0:13:08.93,Gen_Main,Takamine,0000,0000,0000,,Es porque soy digna\Nde ser la número uno.
+Dialogue: 0,0:13:09.02,0:13:10.32,Gen_Italics,Shirota(M),0000,0000,0000,,¿Cómo dices?
+Dialogue: 0,0:13:10.39,0:13:14.22,Gen_Main,Takamine,0000,0000,0000,,Soy la mejor en los estudios\Ny en los deportes.
+Dialogue: 0,0:13:14.47,0:13:18.24,Gen_Main,Takamine,0000,0000,0000,,Además, soy presidenta del consejo,\Nla estudiante más importante.
+Dialogue: 0,0:13:18.32,0:13:22.10,Gen_Main,Takamine,0000,0000,0000,,Si le sumas lo guapa que soy\Ny este cuerpo tan perfecto,
+Dialogue: 0,0:13:22.20,0:13:25.09,Gen_Main,Takamine,0000,0000,0000,,soy la número uno en todo, ¿no crees?
+Dialogue: 0,0:13:25.16,0:13:27.18,Gen_Main,Shirota,0000,0000,0000,,Presidenta, deberías taparte…
+Dialogue: 0,0:13:27.24,0:13:30.50,Gen_Main,Takamine,0000,0000,0000,,Si es para ser la mejor,\Nestoy dispuesta a todo.
+Dialogue: 0,0:13:30.67,0:13:31.88,Gen_Main,Takamine,0000,0000,0000,,Pero ¿sabes?
+Dialogue: 0,0:13:31.96,0:13:36.89,Gen_Main,Takamine,0000,0000,0000,,Pese a mi esfuerzo y mi talento,\Na veces puedo cometer errores.
+Dialogue: 0,0:13:37.30,0:13:42.30,Gen_Main,Takamine,0000,0000,0000,,Aunque como tú eres un fracasado,\Nte costará comprenderlo.
+Dialogue: 0,0:13:42.38,0:13:43.87,Gen_Main,Shirota,0000,0000,0000,,¡Qué borde!
+Dialogue: 0,0:13:43.97,0:13:48.14,Gen_Italics,Shirota(M),0000,0000,0000,,Estoy más perdido\Nque Marco el día de la madre.
+Dialogue: 0,0:13:48.77,0:13:51.55,Gen_Italics,Shirota(M),0000,0000,0000,,No sabía que la presidenta fuera así.
+Dialogue: 0,0:13:51.89,0:13:58.01,Gen_Main,Takamine,0000,0000,0000,,Esta habilidad se manifestó cuando\Ncometí mi primer pequeño error.
+Dialogue: 0,0:13:58.82,0:14:01.55,Gen_Main,Takamine,0000,0000,0000,,Fue cuando todavía estaba en quinto.
+Dialogue: 0,0:14:01.65,0:14:03.14,Gen_Main,Shirota,0000,0000,0000,,¡¿Y ahora un flashback?!
+Dialogue: 0,0:14:03.82,0:14:10.20,Gen_Main,Takamine,0000,0000,0000,,En aquel entonces ya era la mejor\Nen los estudios y en los deportes.
+Dialogue: 0,0:14:10.83,0:14:13.25,Gen_Main,Takamine,0000,0000,0000,,Fue en el festival deportivo.
+Dialogue: 0,0:14:13.79,0:14:16.69,Gen_Main,Takamine,0000,0000,0000,,Yo era la pieza clave\Nde mi equipo de relevos
+Dialogue: 0,0:14:16.79,0:14:21.74,Gen_Main,Takamine,0000,0000,0000,,y debía superar a mi rival\Ny acabar la primera.
+Dialogue: 0,0:14:23.63,0:14:26.33,Gen_Main,Takamine,0000,0000,0000,,Pero aquel día me sentó mal el almuerzo.
+Dialogue: 0,0:14:26.49,0:14:30.84,Gen_Main,Takamine,0000,0000,0000,,El dolor de estómago me hizo correr\Na medio gas y acabé segunda.
+Dialogue: 0,0:14:30.93,0:14:34.19,Gen_Main,Takamine,0000,0000,0000,,Pensé que aquello no era posible.
+Dialogue: 0,0:14:34.27,0:14:38.35,Gen_Main,Takamine,0000,0000,0000,,La humillación que sentí\Nme hizo mojar las bragas.
+Dialogue: 0,0:14:38.44,0:14:40.23,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Te measte encima en quinto?!
+Dialogue: 0,0:14:40.57,0:14:43.66,Gen_Main,Takamine,0000,0000,0000,,Que fuera tan ambiciosa ya entonces…
+Dialogue: 0,0:14:44.15,0:14:45.33,Gen_Main,Takamine,0000,0000,0000,,Era un prodigio.
+Dialogue: 0,0:14:45.41,0:14:47.97,Gen_Italics,Shirota(M),0000,0000,0000,,Qué forma tan retorcida\Nde interpretarlo.
+Dialogue: 0,0:14:48.20,0:14:50.26,Gen_Main,Takamine,0000,0000,0000,,Y cuando me quité las bragas…
+Dialogue: 0,0:14:50.70,0:14:52.41,Gen_Main,Takamine,0000,0000,0000,,Ya sabes qué pasó, ¿no?
+Dialogue: 0,0:14:52.70,0:14:56.21,Gen_Main,Takamine,0000,0000,0000,,Cuando me di cuenta,\Nhabía acabado la primera.
+Dialogue: 0,0:14:56.29,0:15:00.13,Gen_Main,Takamine,0000,0000,0000,,Al quitarme las bragas,\Nevité comerme aquel almuerzo.
+Dialogue: 0,0:15:00.96,0:15:06.43,Gen_Main,Takamine,0000,0000,0000,,Es decir, que mi habilidad\Nse manifestó para que yo,
+Dialogue: 0,0:15:06.51,0:15:08.90,Gen_Main,Takamine,0000,0000,0000,,digna de ser la número uno,
+Dialogue: 0,0:15:09.26,0:15:11.66,Gen_Main,Takamine,0000,0000,0000,,pudiera seguir siéndolo.
+Dialogue: 0,0:15:12.51,0:15:13.87,Gen_Main,Takamine,0000,0000,0000,,¿Lo comprendes ya?
+Dialogue: 0,0:15:14.02,0:15:16.37,Gen_Italics,Shirota(M),0000,0000,0000,,¡No comprendo nada de nada!
+Dialogue: 0,0:15:16.44,0:15:19.11,Gen_Italics,Shirota(M),0000,0000,0000,,Es más, no es que seas una tía rarita,
+Dialogue: 0,0:15:19.29,0:15:21.32,Gen_Italics,Shirota(M),0000,0000,0000,,¡es que es mejor alejarse de ti!
+Dialogue: 0,0:15:22.44,0:15:28.59,Gen_Main,Takamine,0000,0000,0000,,Dime, ¿por qué crees que le cuento\Ntodo esto a alguien como tú?
+Dialogue: 0,0:15:29.16,0:15:30.89,Gen_Main,Shirota,0000,0000,0000,,Pues ni idea.
+Dialogue: 0,0:15:30.99,0:15:34.41,Gen_Main,Takamine,0000,0000,0000,,Al usar mi habilidad,\Nmi ropa interior desaparece.
+Dialogue: 0,0:15:34.66,0:15:37.64,Gen_Main,Takamine,0000,0000,0000,,Es decir,\Nque tengo que ponerme una nueva,
+Dialogue: 0,0:15:37.80,0:15:40.50,Gen_Main,Takamine,0000,0000,0000,,con lo que siempre\Nnecesito llevar de repuesto.
+Dialogue: 0,0:15:40.92,0:15:43.64,Gen_Main,Takamine,0000,0000,0000,,Por tanto, alguien podría verme.
+Dialogue: 0,0:15:44.09,0:15:46.20,Gen_Main,Takamine,0000,0000,0000,,Igual que hizo cierta personita.
+Dialogue: 0,0:15:46.30,0:15:48.22,Gen_Main,Shirota,0000,0000,0000,,Bueno, aquello…
+Dialogue: 0,0:15:50.05,0:15:51.74,Gen_Main,Takamine,0000,0000,0000,,Así que te propongo algo.
+Dialogue: 0,0:15:53.14,0:15:55.85,Gen_Main,Takamine,0000,0000,0000,,Sé mi armario personal.
+Dialogue: 0,0:16:00.65,0:16:04.16,Gen_Main,Takamine,0000,0000,0000,,Me seguirás a todas partes\Ny me guardarás ropa interior
+Dialogue: 0,0:16:04.23,0:16:06.49,Gen_Main,Takamine,0000,0000,0000,,para poder cambiarme si lo necesito.
+Dialogue: 0,0:16:07.90,0:16:11.98,Gen_Main,Takamine,0000,0000,0000,,Al conocer mi habilidad,\Neres la persona ideal para ello.
+Dialogue: 0,0:16:12.95,0:16:15.04,Gen_Main,Takamine,0000,0000,0000,,¿Qué me dices? ¿No es buena idea?
+Dialogue: 0,0:16:15.33,0:16:17.10,Gen_Main,Shirota,0000,0000,0000,,¡Quieres que sea tu esclavo!
+Dialogue: 0,0:16:17.16,0:16:19.22,Gen_Main,Shirota,0000,0000,0000,,¡Yo no gano nada con esto!
+Dialogue: 0,0:16:19.29,0:16:21.50,Gen_Main,Takamine,0000,0000,0000,,¿Cómo que no ganas nada?
+Dialogue: 0,0:16:21.58,0:16:25.30,Gen_Main,Takamine,0000,0000,0000,,Eres del montón\Ny casi nadie sabe que existes.
+Dialogue: 0,0:16:25.38,0:16:28.44,Gen_Main,Takamine,0000,0000,0000,,Al ser mi armario personal,\Nserás alguien único.
+Dialogue: 0,0:16:28.62,0:16:29.71,Gen_Main,Takamine,0000,0000,0000,,¿No es un honor?
+Dialogue: 0,0:16:29.80,0:16:31.72,Gen_Main,Shirota,0000,0000,0000,,¡¿De verdad piensas eso?!
+Dialogue: 0,0:16:31.80,0:16:33.73,Gen_Italics,Shirota(M),0000,0000,0000,,No entiendo a esta chica…
+Dialogue: 0,0:16:34.56,0:16:37.32,Gen_Main,Shirota,0000,0000,0000,,Lo siento, me voy a casa.
+Dialogue: 0,0:16:37.39,0:16:39.00,Gen_Main,Shirota,0000,0000,0000,,Todo esto es muy raro.
+Dialogue: 0,0:16:39.10,0:16:40.52,Gen_Main,Takamine,0000,0000,0000,,Espera.
+Dialogue: 0,0:16:40.60,0:16:43.04,Gen_Main,Takamine,0000,0000,0000,,¿Entonces no serás mi armario personal?
+Dialogue: 0,0:16:43.18,0:16:44.18,Gen_Main,Shirota,0000,0000,0000,,¡Pues no!
+Dialogue: 0,0:16:44.27,0:16:46.67,Gen_Main,Shirota,0000,0000,0000,,Esa habilidad es sospechosa,
+Dialogue: 0,0:16:46.74,0:16:49.70,Gen_Main,Shirota,0000,0000,0000,,¡y vaya forma de pedir un favor tienes!
+Dialogue: 0,0:16:50.86,0:16:53.33,Gen_Italics,Shirota(M),0000,0000,0000,,Creo que me he pasado.
+Dialogue: 0,0:16:53.41,0:16:56.01,Gen_Main,Shirota,0000,0000,0000,,En fin, que me voy.
+Dialogue: 0,0:16:56.08,0:16:57.37,Gen_Main,Takamine,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:17:02.33,0:17:05.47,Gen_Main,Shirota,0000,0000,0000,,Ay. ¿Estás bien, presid…?
+Dialogue: 0,0:17:08.51,0:17:09.98,Gen_Main,Shirota,0000,0000,0000,,¡Lo siento mucho!
+Dialogue: 0,0:17:10.05,0:17:11.50,Gen_Main,Shirota/Takamine,0000,0000,0000,,-¡Ya me quito!\N-Espera.
+Dialogue: 0,0:17:11.59,0:17:13.64,Gen_Main,Takamine,0000,0000,0000,,He hecho mal en pedírtelo así.
+Dialogue: 0,0:17:15.35,0:17:18.52,Gen_Main,Takamine,0000,0000,0000,,Tendría que haber hecho esto.
+Dialogue: 0,0:17:19.39,0:17:21.02,Gen_Italics,Shirota(M),0000,0000,0000,,¿Haber hecho esto?
+Dialogue: 0,0:17:21.10,0:17:24.49,Gen_Italics,Shirota(M),0000,0000,0000,,¿Eso significa que me recompensará?
+Dialogue: 0,0:17:31.32,0:17:32.51,Gen_Italics,Shirota(M),0000,0000,0000,,¿Eh?
+Dialogue: 0,0:17:32.61,0:17:35.74,Gen_Main,GuyB/GuyC,0000,0000,0000,,-¡Un grito!\N-¡Venía del consejo! ¡Vamos!
+Dialogue: 0,0:17:36.53,0:17:38.20,Gen_Main,Shirota,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:17:38.79,0:17:40.66,Gen_Main,GuyD,0000,0000,0000,,¡¿Pasa algo, presidenta?!
+Dialogue: 0,0:17:40.75,0:17:43.02,Gen_Main,GuyB/GuyC,0000,0000,0000,,-¡Presidenta!\N-¡Atrapadlo!
+Dialogue: 0,0:17:43.37,0:17:46.40,Gen_Main,GuyD,0000,0000,0000,,¡Serás cabrón! ¡¿Qué le has hecho?!
+Dialogue: 0,0:17:46.50,0:17:47.71,Gen_Main,GuyB,0000,0000,0000,,¡Llamad a la poli!
+Dialogue: 0,0:17:47.80,0:17:49.54,Gen_Main,GirlA,0000,0000,0000,,Hola, ¿policía?
+Dialogue: 0,0:17:49.63,0:17:51.08,Gen_Main,Shirota,0000,0000,0000,,¡¿La policía?!
+Dialogue: 0,0:17:51.17,0:17:53.81,Gen_Main,Shirota,0000,0000,0000,,¡Presidenta, explícaselo!
+Dialogue: 0,0:17:54.26,0:17:56.60,Gen_Main,Takamine,0000,0000,0000,,¿Que se lo explique?
+Dialogue: 0,0:17:57.60,0:18:01.41,Gen_Main,Takamine,0000,0000,0000,,¡Me has tirado al suelo\Npara abusar de mí!
+Dialogue: 0,0:18:02.10,0:18:04.25,Gen_Main,Shirota,0000,0000,0000,,¡Oye, ¿por qué mientes así?!
+Dialogue: 0,0:18:04.35,0:18:06.30,Gen_Main,GirlA,0000,0000,0000,,¡Sí, en el tercer piso!
+Dialogue: 0,0:18:09.11,0:18:11.89,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Por qué me hace esto?!
+Dialogue: 0,0:18:14.57,0:18:15.88,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Me la ha jugado?!
+Dialogue: 0,0:18:15.95,0:18:18.44,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Por negarme a ser\Nsu armario personal?!
+Dialogue: 0,0:18:18.54,0:18:19.95,Gen_Italics,Shirota(M),0000,0000,0000,,¡¿Y me hace esto?!
+Dialogue: 0,0:18:20.04,0:18:21.37,Gen_Main_Up,GuyD,0000,0000,0000,,¡Por aquí, agentes!
+Dialogue: 0,0:18:20.62,0:18:22.11,Gen_Italics,Shirota(M),0000,0000,0000,,No puede ser.
+Dialogue: 0,0:18:21.45,0:18:23.16,Gen_Main_Up,GuyD,0000,0000,0000,,¡Ese es el culpable!
+Dialogue: 0,0:18:22.58,0:18:24.29,Gen_Italics,Shirota(M),0000,0000,0000,,¿Entonces mi vida…
+Dialogue: 0,0:18:25.42,0:18:27.65,Gen_Italics,Shirota(M),0000,0000,0000,,se ha ido al garete?
+Dialogue: 0,0:18:30.09,0:18:32.30,Gen_Main,Takamine,0000,0000,0000,,"Ojalá esto no hubiera pasado".
+Dialogue: 0,0:18:33.26,0:18:34.60,Gen_Main,Takamine,0000,0000,0000,,¿No piensas eso?
+Dialogue: 0,0:18:35.59,0:18:40.19,Gen_Main,Takamine,0000,0000,0000,,"Ojalá no hubiera gritado así".
+Dialogue: 0,0:18:40.27,0:18:41.92,Gen_Italics,Shirota(M),0000,0000,0000,,¡Eso es!
+Dialogue: 0,0:18:42.02,0:18:45.90,Gen_Italics,Shirota(M),0000,0000,0000,,Si usa su habilidad y decide no gritar,
+Dialogue: 0,0:18:45.98,0:18:48.23,Gen_Italics,Shirota(M),0000,0000,0000,,¡me salvaré!
+Dialogue: 0,0:18:48.52,0:18:49.53,Gen_Main,Shirota,0000,0000,0000,,¡Presidenta!
+Dialogue: 0,0:18:49.61,0:18:52.07,Gen_Main,Shirota,0000,0000,0000,,¡Deshaz esto con tu habilidad!
+Dialogue: 0,0:18:49.61,0:18:52.07,Gen_Main_Up,GuyD,0000,0000,0000,,¡Oye, quieto!
+Dialogue: 0,0:18:53.70,0:18:57.33,Gen_Main,Takamine,0000,0000,0000,,Eso dependerá de cómo me lo pidas.
+Dialogue: 0,0:19:02.00,0:19:07.45,Gen_Main,Takamine,0000,0000,0000,,Dime, ¿vas a ser mi armario personal?
+Dialogue: 0,0:19:08.79,0:19:10.03,Gen_Main,Takamine,0000,0000,0000,,¿O prefieres…?
+Dialogue: 0,0:19:12.63,0:19:16.35,Gen_Main,Shirota,0000,0000,0000,,Vale, lo seré.
+Dialogue: 0,0:19:26.10,0:19:28.86,Gen_Main,Takamine/Shirota,0000,0000,0000,,-Armario.\N-Dime.
+Dialogue: 0,0:19:28.94,0:19:31.69,Gen_Main,Takamine/Shirota,0000,0000,0000,,-Kurota.\N-Dime.
+Dialogue: 0,0:19:32.73,0:19:34.00,Gen_Main,Takamine,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:19:34.07,0:19:36.65,Gen_Main,Takamine,0000,0000,0000,,Parece que entiendes tu posición.
+Dialogue: 0,0:19:36.99,0:19:39.53,Gen_Italics,Shirota(M),0000,0000,0000,,¿Qué va a ser de mí?
+Dialogue: 0,0:19:39.62,0:19:43.24,Gen_Italics,Shirota(M),0000,0000,0000,,Ojalá pudiera volver\Na cuando era feliz suspendiendo.
+Dialogue: 0,0:19:43.33,0:19:45.32,Gen_Main,Takamine,0000,0000,0000,,No pareces muy contento.
+Dialogue: 0,0:19:45.41,0:19:48.17,Gen_Main,Takamine,0000,0000,0000,,Y eso que he evitado\Nque te traten de violador.
+Dialogue: 0,0:19:48.25,0:19:50.21,Gen_Main,Shirota,0000,0000,0000,,¡Eso fue por tu culpa!
+Dialogue: 0,0:19:50.46,0:19:54.67,Gen_Main,Takamine,0000,0000,0000,,Vaya, ¿te parece esa forma\Nde hablar a tu señora?
+Dialogue: 0,0:19:55.76,0:20:00.14,Gen_Main,Takamine,0000,0000,0000,,Sabes que puedo dar marcha atrás\Ncuando quiera y no ayudarte, ¿no?
+Dialogue: 0,0:20:00.97,0:20:02.56,Gen_Main,Shirota,0000,0000,0000,,¡Lo siento mucho!
+Dialogue: 0,0:20:03.14,0:20:04.94,Gen_Main,Takamine,0000,0000,0000,,Pues entremos en materia.
+Dialogue: 0,0:20:05.02,0:20:07.64,Gen_Main,Takamine,0000,0000,0000,,Tengo tu primera tarea.
+Dialogue: 0,0:20:09.02,0:20:10.80,Gen_Main,Takamine,0000,0000,0000,,Ponme las bragas.
+Dialogue: 0,0:20:10.90,0:20:11.98,Gen_Main,Shirota,0000,0000,0000,,¡¿Cómo?!
+Dialogue: 0,0:20:12.07,0:20:16.53,Gen_Main,Takamine,0000,0000,0000,,No llevo porque\Nme las he quitado para ayudarte.
+Dialogue: 0,0:20:16.61,0:20:17.66,Gen_Main,Shirota,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:20:17.74,0:20:18.97,Gen_Main,Takamine,0000,0000,0000,,Voy sin bragas.
+Dialogue: 0,0:20:19.07,0:20:21.07,Gen_Main,Takamine,0000,0000,0000,,Así no puedo volver a casa.
+Dialogue: 0,0:20:21.16,0:20:23.58,Gen_Main,Shirota,0000,0000,0000,,Pero puedes ponértelas tú solita.
+Dialogue: 0,0:20:23.66,0:20:26.20,Gen_Main,Takamine,0000,0000,0000,,Vaya, ¿ya lo has olvidado?
+Dialogue: 0,0:20:26.45,0:20:32.46,Gen_Main,Takamine,0000,0000,0000,,Estás aquí para guardar mi ropa interior\Ny ayudarme a ponérmela.
+Dialogue: 0,0:20:32.54,0:20:35.37,Gen_Main,Takamine,0000,0000,0000,,Tengo unas bragas en mi mochila.
+Dialogue: 0,0:20:36.17,0:20:37.41,Gen_Main,Takamine,0000,0000,0000,,Espabila.
+Dialogue: 0,0:20:44.10,0:20:45.31,Gen_Main,Takamine,0000,0000,0000,,Vamos.
+Dialogue: 0,0:20:47.73,0:20:48.94,Gen_Main,Takamine,0000,0000,0000,,Adelante.
+Dialogue: 0,0:21:01.61,0:21:02.61,Gen_Main,Takamine,0000,0000,0000,,¿Anda?
+Dialogue: 0,0:21:02.70,0:21:04.72,Gen_Main,Takamine,0000,0000,0000,,¿Has cerrado los ojos?
+Dialogue: 0,0:21:04.78,0:21:07.17,Gen_Main,Takamine,0000,0000,0000,,Qué mono eres, Kurota.
+Dialogue: 0,0:21:07.25,0:21:09.89,Gen_Main,Shirota,0000,0000,0000,,Es que si no te lo habría visto todo.
+Dialogue: 0,0:21:09.96,0:21:11.83,Gen_Main,Shirota,0000,0000,0000,,Y no creo que quisieras eso.
+Dialogue: 0,0:21:11.92,0:21:14.67,Gen_Main,Takamine,0000,0000,0000,,¿Dices eso después de verme las tetas?
+Dialogue: 0,0:21:14.75,0:21:15.90,Gen_Main,Shirota,0000,0000,0000,,Eso fue…
+Dialogue: 0,0:21:16.55,0:21:17.69,Gen_Main,Shirota,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:21:17.76,0:21:22.01,Gen_Main,Shirota,0000,0000,0000,,Sabía que hacía mal,\Npero me dejé llevar.
+Dialogue: 0,0:21:22.30,0:21:24.01,Gen_Main,Takamine,0000,0000,0000,,Por cierto, Shirota.
+Dialogue: 0,0:21:24.76,0:21:30.02,Gen_Main,Takamine,0000,0000,0000,,Desde que has entrado aquí,\Nhas intentado evitar verme desnuda.
+Dialogue: 0,0:21:30.10,0:21:34.68,Gen_Main,Takamine,0000,0000,0000,,Aunque seguro que te mueres\Nde ganas de manosearme.
+Dialogue: 0,0:21:34.77,0:21:36.48,Gen_Main,Shirota,0000,0000,0000,,¡De eso nada!
+Dialogue: 0,0:21:38.28,0:21:40.92,Gen_Main,Takamine,0000,0000,0000,,Esa sinceridad tuya…
+Dialogue: 0,0:21:41.65,0:21:42.82,Gen_Main,Takamine,0000,0000,0000,,O mejor dicho…
+Dialogue: 0,0:21:45.20,0:21:48.95,Gen_Main,Takamine,0000,0000,0000,,Esa caballerosidad tuya no ha cambiado.
+Dialogue: 0,0:21:52.12,0:21:53.61,Gen_Main,Takamine,0000,0000,0000,,Muy bien, Kurota.
+Dialogue: 0,0:21:53.71,0:21:55.75,Gen_Main,Takamine,0000,0000,0000,,Ahora ponme el sujetador.
+Dialogue: 0,0:21:56.50,0:21:58.50,Gen_Main,Takamine,0000,0000,0000,,¿Podrás con los ojos cerrados?
+Dialogue: 0,0:21:58.59,0:22:00.43,Gen_Main,Shirota,0000,0000,0000,,¿Eh? Pero…
+Dialogue: 0,0:22:00.84,0:22:01.93,Gen_Main,Takamine,0000,0000,0000,,¿Anda?
+Dialogue: 0,0:22:02.01,0:22:04.96,Gen_Main,Takamine,0000,0000,0000,,¿Lo de abajo sí puedes\Ny lo de arriba no?
+Dialogue: 0,0:22:05.05,0:22:07.73,Gen_Main,Shirota,0000,0000,0000,,No es eso, es que…
+Dialogue: 0,0:22:31.16,0:22:39.08,Cart_C_Tim,CARTEL,0000,0000,0000,,{\fad(3250,700)\bord4\an5\blur2\pos(320,335)\t(0,3250,\fs+1)}Please Put {\c&HB04DEF&}T{\c&H000000&}hem On, Takamine-san
+Dialogue: 0,0:23:37.15,0:23:39.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\3c&H996D88&\fs16\blur2}Traducción: Sergio Vaca
+
